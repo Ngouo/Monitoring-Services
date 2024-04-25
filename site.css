@@ -1,0 +1,160 @@
+ body, html{
+	font-family: Century Gothic;
+	font-size: 25px;
+	margin: 0px;
+	padding: 0px;
+	background-color: black;
+	height: 100%;
+   background-image: url("secours.png");
+   background-size: 100% 100%;
+   width: 100%;
+}
+.debut{
+   background-image: url("secours.png");
+   background-size: 100% 100%;
+   width: 100%;
+   padding-top: 5px;
+   margin-right: auto;
+}
+
+h1{
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	color: white;
+   text-decoration: none;
+}
+.entete{
+   margin: 0px;
+	padding: 85px 60px 70px 70px;
+}
+header{
+	height: 130px;
+   background-color: red;
+   margin: 0px;
+   box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
+}
+.image{
+   padding:22px 25px;
+  
+}
+#bloc2{
+   color: white;
+   font-weight: 700;
+}
+.M{
+	color: red;
+   font-weight: bold;
+}
+.analyse{
+   color: red;
+   text-decoration: none;
+}
+.para{
+   font-size: 25px;
+}
+
+
+footer {
+	height: 300px;
+	padding-top: 15px;
+	background-color: #424558;
+	border-top: 2px solid #AAA;
+   font-size: 20px;
+   font-weight: 400;
+   color: white;
+   padding-bottom: 55px;
+}
+h2{
+   font-weight: bold;
+}
+nav{
+	
+	width: 100%;
+}
+
+nav ul{
+	margin: 0px;
+	padding: 0px;
+}
+nav li{
+	list-style-type: disc;
+   width: 100%;
+	
+}
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	color: #FFF;
+	padding: 19px 28px;
+	text-transform: uppercase;
+	font-size: 30px;
+   font-weight: bold;
+}
+.table{
+	display: table;
+	margin: 0 auto;
+}
+.Presentation, .menu1:hover{
+	border-top: 5px solid #4C8;
+	background-color: RGBa(64, 200, 130, 0.15);
+  
+}
+.Parcours, .menu2:hover{
+border-top: 5px solid #F1DC4F;
+	background-color: RGBa(241, 211, 79, 0.15);	
+}
+.Competences, .menu3:hover{
+	border-top: 5px solid #0070BB;
+	background-color: RGBa(000, 112, 192, 0.15);	
+}
+.Recommendations, .menu4:hover{
+	border-top: 5px solid #E44D26;
+	background-color: RGBa(228, 77, 38, 0.15);
+}
+nav li a{
+padding: 30px 950px 30px  70px;
+  
+}
+@media screen and (max-width: 2294px){ 
+	body{
+      height: 100%;
+      margin: 1px;
+   }
+   
+   header{
+		height: 150px;
+	}
+	h1{
+		font-size: 28px;
+		margin: 20px 0px 0px 0px;
+	}
+	nav li a{
+		font-size: 32px;
+		padding: 27px;
+	}
+	nav li:hover a{
+		padding: 30px 26px 25px  30px;
+	}
+  .local1{
+    font-size: 18px;
+  }
+}
+
+.essai{
+  height: 50px;
+  background-color: red;
+	
+}
+.menu7{
+  list-style-type: none;
+	
+}
+#bloc2{
+   color: white;
+}
+
+#note{
+   color: red;
+}
+

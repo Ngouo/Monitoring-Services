@@ -1,0 +1,155 @@
+body{
+	font-family: Century Gothic;
+	margin: 0px;
+	background-color: white;
+	background-image: url("EM3".avif);
+	font-weight: 500;
+	color: white;
+}
+
+.content-container{
+	font-family: Century Gothic;
+	background: red;
+	
+	height: 120px;
+}
+.essai, .essaie2, .essaie3{
+	font-family: Century Gothic;
+	background: #424558;
+	height: 100px;
+	padding-top: 1px;
+}
+.fi, .teta{
+    font-weight: bold;
+   font-size: 30px;
+   color: #FFF;
+   text-align: center;
+   padding: 1px 10px;
+}
+#id1{
+	color: red;
+}
+#id2{
+	color: blue;
+}
+li{
+	font-size: 25px;
+	list-style-type: none;
+}
+
+.bloc{
+	font-size: 25px;
+	font-weight: 700;
+}
+#ro{
+	color: red;
+	font-weight: bold;
+	font-size: 25px;
+}
+
+.d2{
+	font-family: Century Gothic;
+	background: white;
+	height: 200px;
+}
+.BLOC{
+	padding: 1px 20px;
+}
+#alpha{
+	color: red;
+	font-size: 15px;
+	font-weight: bold;
+}
+li liste{
+	font-weight: 100;
+}
+.moi{
+	font-size: 25px;
+}
+.toi{
+	font-size: 25px;
+	font-weight: bold;
+	color: blue;
+}
+.pi{
+	padding: 10px 10px;
+}
+.global{
+	margin: 0px;
+	width: 100%;
+	height: 250px;
+	padding: 0px;
+}
+.local1{
+	width:50%;
+	height: 20px;
+	padding: 10px 10% 25px 12%; 
+	
+}
+.local2{
+	width: 50%;
+	height: 20px;
+	padding: 0% 1% 50px 15%;
+	text-align: right center;
+	float: right;
+}
+.global2{
+	margin: 0px;
+	width: 100%;
+	height: 250px;
+	padding: 0px;
+}
+
+
+.local3{
+	width:40%;
+	height: 20px;
+	padding: 50px 0% 25px 12%; 
+
+}
+.local4{
+	width: 50%;
+	height: 30px;
+	padding: 2px 0px;
+	text-align: right center;
+	float: right;
+}
+.global4{
+	padding: 20px 10%;
+}
+.liens{
+	margin: 0px;
+   padding: 5px 15%;
+   font-weight: bold;
+}
+.barca a{
+	color: white;
+	text-decoration: none;
+	font-weight: 300;
+}
+.barca a:hover{
+	color: red;
+}
+.vue2{
+	background-image: url("M10'.jpg");
+	background-size: 100% 100%;
+	padding-bottom: 2px;
+}
+.vue3{
+	background-image: url("M9'.jpg");
+	background-size: 115% 100%;
+	padding-bottom: 2px;
+}
+.vue4{
+	background-image: url("EM2'.jpg");
+	background-size: 100% 100%;
+	padding-bottom: 2px;
+}
+.vue5{
+	background-image: url("RS5'.jpg");
+	background-size: 100% 100%;
+	padding-bottom: 2px;
+}
+#é{
+	text-transform: uppercase;
+}
